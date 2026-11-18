@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0d1117,50:1f6feb,100:8957e5&text=Mirjalol%20Roziboyev&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer&descSize=22&descAlignY=58" />
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=50&lines=Full+Stack+Developer+%F0%9F%9A%80;Python+%2B+Node.js+%F0%9F%90%8D;Learning+Frontend+%F0%9F%8E%A8;Ubuntu+%F0%9F%90%A7+%7C+VS+Code" />
 </p>
@@ -53,13 +51,6 @@ const mirjalol = {
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mirkoo7odev-ops&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
-
----
 
 ## 📫 Contact
 
